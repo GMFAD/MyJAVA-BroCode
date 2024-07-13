@@ -81,12 +81,3 @@ public class Main {
 ```
 </details>
 
-
-<br>
-Comment in the code
-
-```
-
-```
-<br>
-
