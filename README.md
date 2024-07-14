@@ -36,7 +36,7 @@ public class *filename*{
 ```
 //this is a comment
 /*this is multiple lines of comment
- *
+ *this is multiple lines of comment
  */
 ```
 </details>
