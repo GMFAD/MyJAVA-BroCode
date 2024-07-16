@@ -3,7 +3,7 @@
 <details>
 <summary>Starting code of a java file</summary>
   
-```
+```java
 public class *filename*{
   public static void main(String[] args){
   }
@@ -13,9 +13,9 @@ public class *filename*{
 <br>
 <h3>Things learned:</h3>
 
-<details><summary>1. show something</summary>
+<details><summary>1. display something</summary>
   
-  ```
+  ```java
   System.out.println("");
   System.out.println(x);
   System.out.print(x);
@@ -23,7 +23,7 @@ public class *filename*{
 </details>
 <details><summary>2. few escape sequences(\):</summary>
   
-```
+```java
   \n for new line
   \t for tab/spaces
   \" for quotes
@@ -33,7 +33,7 @@ public class *filename*{
 
 <details><summary>3. comment</summary>
   
-```
+```java
 //this is a comment
 /*this is multiple lines of comment
  *this is multiple lines of comment
@@ -48,7 +48,7 @@ public class *filename*{
 <details><summary>5. swap 2 variables</summary>
 introduce a temp variable and store one of the variables
   
-```
+```java
   temp = x;
   x = y;
   y = temp;
@@ -57,7 +57,7 @@ introduce a temp variable and store one of the variables
 
 <details><summary>6. user input/scanner</summary>
   
-```
+```java
 import java.util.Scanner;
 public class Main {
   public static void main(String[] args) {
@@ -81,3 +81,24 @@ public class Main {
 ```
 </details>
 
+<details><summary>6. arithmetic expressions</summary>
+  expression =     operands & operators
+  operands =  values, variables, numbers, quantity
+  operators = + - * / %
+
+  % is called modulus. It gives the remainder of any division. (ভাগশেষ)
+
+```java
+int friend = 10;
+
+friend = friend+1; 
+//also can be done by:
+friend++;
+```
+</details>
+
+<details><summary></summary>
+
+```java
+```
+</details>
