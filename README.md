@@ -81,7 +81,7 @@ public class Main {
 ```
 </details>
 
-<details><summary>6. arithmetic expressions</summary>
+<details><summary>7. arithmetic expressions</summary>
   expression =     operands & operators
   operands =  values, variables, numbers, quantity
   operators = + - * / %
@@ -97,7 +97,7 @@ friend++;
 ```
 </details>
 
-<details><summary></summary>
+<details><summary>8. </summary>
 
 ```java
 ```
