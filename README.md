@@ -42,7 +42,7 @@ public class *filename*{
 </details>
 
 <details><summary>4. variables:</summary>
-  <img src="images/data_types.png" alt="Data Types" width="600">
+  <img src="images/data_types.png" alt="Data Types" style="display: block; margin: 0 auto;">
 </details>
 
 <details><summary>5. swap 2 variables</summary>
